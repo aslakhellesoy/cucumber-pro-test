@@ -1,4 +1,5 @@
- Feature: Hello
+# comment
+Feature: Hello
   Scenario: This is a scenario
     Given I have 40 cukes in my belly
     Then I should feel like:
@@ -7,3 +8,4 @@
       That's a lot!
       """
 some text
+
