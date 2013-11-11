@@ -7,5 +7,3 @@ Feature: Hello
       ZOMG
       That's a lot!
       """
-some text
-yox
