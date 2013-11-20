@@ -7,4 +7,3 @@ Feature: Hello
       ZOMG
       That's a lot!
       """
-Ha
